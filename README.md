@@ -33,4 +33,4 @@ Additionally, you need a **Discord account** and a **Discord bot token** (which 
    First, clone the repository to your local machine using Git. Open your terminal (or Git Bash) and run the following command:
 
    ```bash
-   git clone https://github.com/your-username/discord-bot-repo.git
+   git clone https://github.com/Dhravya285/discord-bot.git
